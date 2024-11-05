@@ -1,0 +1,12 @@
+1- Clona el repositorio con el siguiente comando: 
+    git clone https://github.com/MartinoMasson/Fundamentos-de-datos.git
+
+2- Crea un entorno virtual con el siguiente comando: 
+    python -m venv <nombre del ambiente>
+
+3- Activa el entorno que acabas de crear:
+    En Windows: <nombre del ambiente>\Scripts\activate
+    En macOS/Linux: source <nombre del ambiente>/bin/activate
+
+4- Instala las dependencias del proyecto con el siguiente comando: 
+    pip install -r requirements.txt

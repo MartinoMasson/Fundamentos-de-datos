@@ -8,5 +8,8 @@
     En Windows: <nombre del ambiente>\Scripts\activate
     En macOS/Linux: source <nombre del ambiente>/bin/activate
 
-4- Instala las dependencias del proyecto con el siguiente comando: 
+4- Verificar que estes dentro de la carpeta que clonaste del repositorio
+     cd .\Fundamentos-de-datos\
+
+5- Instala las dependencias del proyecto con el siguiente comando: 
     pip install -r requirements.txt

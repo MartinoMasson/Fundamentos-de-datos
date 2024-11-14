@@ -5,13 +5,13 @@ Pasos a seguir si es la primera vez que descargas este repositorio
     git clone https://github.com/MartinoMasson/Fundamentos-de-datos.git
 
 2. Crea un entorno virtual con el siguiente comando:
-    python -m venv <nombre del ambiente>
+    python -m venv nombre del ambiente
 
 3. Activa el entorno virtual que acabas de crear:
     - En Windows:
-      <nombre del ambiente>\Scripts\activate
+      nombre del ambiente\Scripts\activate
     - En macOS/Linux:
-      source <nombre del ambiente>/bin/activate
+      source nombre del ambiente/bin/activate
 
 4. Verifica que estés dentro de la carpeta que clonaste del repositorio:
     cd ./Fundamentos-de-datos/
